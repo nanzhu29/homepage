@@ -6,10 +6,7 @@
 - 支持后台**多主题切换**，细致修改所有主题细节。  
 
 
->**演示站**：[https://zyyo.cc](https://zyyo.cc)  
->**后台**：[https://zyyo.cc/admin](https://zyyo.cc/admin)  
->**账号**：admin  
->**密码**：123456  
+
 
 
 ![主页截图](https://zyyo.net/usr/picture/homepage.png)  
