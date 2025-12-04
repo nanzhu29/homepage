@@ -31,9 +31,6 @@
 - 支持**背景整体模糊**和**卡片模糊**，可通过 CSS 切换。  
 - 使用**原生 HTML、CSS、JS**，未使用框架或插件。  
 
-**GitHub**：[https://github.com/ZYYO666/homepage](https://github.com/ZYYO666/homepage)  
-**QQ群下载**：560938976  
-
 **后续计划**：  
 - 增加主页时钟  
 - 增加主页音乐播放器  
